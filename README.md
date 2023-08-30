@@ -13,3 +13,5 @@ The dataset encompasses a variety of metrics, including:
 The dataset has been sourced from anonymized and aggregated data provided by Kaggle(https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset). It provides a snapshot of customer interactions and preferences while maintaining privacy and confidentiality. The dataset is available in widely used formats like CSV and Excel, facilitating seamless data analysis and visualization.
 
 This dataset is a valuable resource for researchers, data analysts, marketers, and anyone interested in understanding customer behavior within the context of streaming services. It allows you to gain insights into how customers from different regions, age groups, genders, and subscription plans interact with Netflix.
+
+Note: Please find the Tableau project link in 'Netflix_Customer_Dashboard.png'
